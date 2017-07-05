@@ -1,12 +1,14 @@
 Meine Schule
-=============
+---
 
 Name:
-Anschrift:
+Ort:
+Typ:
 Ansprechpartner:
+Webseite:
 
 Kurse
-------
+---
 
 + Klasse 5
   - [Informatik - Programmierung](https://github.com/axel-klinger/informatik-ag)
