@@ -1,11 +1,11 @@
 Meine Schule
 ---
 
-Name:
-Ort:
-Typ:
-Ansprechpartner:
-Webseite:
+Name: Beispiel Schule
+Ort: Lindwedel
+Typ: Schule für Alle
+Email: 
+Webseite: http://talalab.net
 
 Kurse
 ---
