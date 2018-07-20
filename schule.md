@@ -24,7 +24,7 @@ Kurse
   * [Informatik - Programmierung](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/schule/klasse-7/informatik/kurs.md)
   * [Kunst - Zeichnen](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/schule/klasse-7/kunst/kurs.md)
   * [Mathe - Arithmetik](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/schule/klasse-7/mathe/kurs.md)
-  * [Musik - Notensystem](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/schule/klasse-7/mathe/musik.md)
+  * [Musik - Notensystem](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/schule/klasse-7/musik/kurs.md)
   * [Physik - Optik](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/schule/klasse-7/physik/kurs.md)
   * [Politik - Demokratie](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/schule/klasse-7/politik/kurs.md)
   * [Spanisch - Grammatik](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/schule/klasse-7/spanisch/kurs.md)
